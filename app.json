@@ -1,0 +1,9 @@
+{
+  "name": "ibot",
+  "description": "IVI bot",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/mtakahashi-ivi/ibot.git",
+  "addons": [
+    "mongolab"
+  ]
+}
