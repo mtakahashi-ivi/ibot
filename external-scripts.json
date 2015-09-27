@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-bitbucket-pr",
-  "hubot-slack-attachment"
+  "hubot-slack-attachment",
+  "hubot-slack-rainfall-alert"
 ]
